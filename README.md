@@ -17,7 +17,7 @@ In order to create a new board that could be detected on arduino Board Manager, 
 
 + Add your board package in [package_movuino_index.json](https://github.com/movuino/movuino-board-index/blob/main/package_movuino_index.json)
 
-+ Remove cache files in `Arduino15`-> `Cache` folder
++ Remove cache files in `Arduino15`-> `Cache` folder and package_movuino_index_json
 
 + Restart Arduino
 
