@@ -2,7 +2,7 @@
 This repo contains the Movuino board packages customed to use Movuino into arduino Board Manager.
 
 ## Installation
-Copy and paste **https://raw.githubusercontent.com/movuino/movuino-board-index/main/package_movuino_index.json** into `arduino IDE` -> `Preferences`-> `additional board manager URLs`. After that, search for ***Movuino Open Health Band*** in `Tools` -> `Board Manager` and install it.
+Copy and paste **https://movuino.github.io/movuino-board-index/package_movuino_index.json** into `arduino IDE` -> `Preferences`-> `additional board manager URLs`. After that, search for ***Movuino Open Health Band*** in `Tools` -> `Board Manager` and install it.
 
 ## Create new board
 In order to create a new board that could be detected on arduino Board Manager, you must follow the following steps :
