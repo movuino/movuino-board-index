@@ -114,8 +114,8 @@
           "category": "Movuino",
           "url": "https://github.com/movuino/movuino-board-index/raw/development/boards/movuino-nrf52-1.0.0.tar.bz2",
           "archiveFileName": "movuino-nrf52-1.0.0.tar.bz2",
-          "checksum": "SHA-256:2fabe9df8dac109e1df281374392a9d34de582cd03bf68477ecd3b9ecc9f29a7",
-          "size": "18013541",
+          "checksum": "SHA-256:e5a8850b8feee6e6148aa80ade1515cea8442473ba346f96e74c3e4569bc070a",
+          "size": "18003430",
           "help": {
             "online": "https://github.com/movuino"
           },
