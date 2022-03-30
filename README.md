@@ -1,4 +1,4 @@
-# Movuino Package Board Manager
+# Movuino Board Index
 This repo contains the Movuino board packages necessary to install Movuino board definitions from the Arduino board manager.  
 
 ## How to use
