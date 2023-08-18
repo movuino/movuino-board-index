@@ -78,14 +78,14 @@ movuinoOHB272.menu.debug.l3.build.sysview_flags=-DCFG_SYSVIEW=1
 movuinoOHB274.name=Movuino Open Health Band v0.2.7.4
 
 # VID/PID for bootloader with/without UF2, Arduino + Circuitpython App
-movuinoOHB274.vid.0=0x239A
-movuinoOHB274.pid.0=0x8029
-movuinoOHB274.vid.1=0x239A
-movuinoOHB274.pid.1=0x0029
-movuinoOHB274.vid.2=0x239A
-movuinoOHB274.pid.2=0x002A
-movuinoOHB274.vid.3=0x239A
-movuinoOHB274.pid.3=0x802A
+movuinoOHB274.vid.0=0x1209
+movuinoOHB274.pid.0=0x7402
+movuinoOHB274.vid.1=0x1209
+movuinoOHB274.pid.1=0x7402
+movuinoOHB274.vid.2=0x1209
+movuinoOHB274.pid.2=0x7402
+movuinoOHB274.vid.3=0x1209
+movuinoOHB274.pid.3=0x7402
 
 # Upload
 movuinoOHB274.bootloader.tool=bootburn
@@ -106,8 +106,8 @@ movuinoOHB274.build.usb_manufacturer="Adafruit LLC"
 movuinoOHB274.build.usb_product="Feather nRF52840 Express"
 movuinoOHB274.build.extra_flags=-DNRF52840_XXAA {build.flags.usb}
 movuinoOHB274.build.ldscript=nrf52840_s140_v6.ld
-movuinoOHB274.build.vid=0x239A
-movuinoOHB274.build.pid=0x8029
+movuinoOHB274.build.vid=0x1209
+movuinoOHB274.build.pid=0x7402
 
 # SofDevice Menu
 movuinoOHB274.menu.softdevice.s140v6=0.3.2 SoftDevice s140 6.1.1
